@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-props-bootstrap/static/css/main.1cafa257.css",
+    "main.js": "/react-props-bootstrap/static/js/main.e2cb8519.js",
+    "index.html": "/react-props-bootstrap/index.html",
+    "main.1cafa257.css.map": "/react-props-bootstrap/static/css/main.1cafa257.css.map",
+    "main.e2cb8519.js.map": "/react-props-bootstrap/static/js/main.e2cb8519.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cafa257.css",
+    "static/js/main.e2cb8519.js"
+  ]
+}
