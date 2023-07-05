@@ -1,6 +1,6 @@
 const Card = ({ id, name, imgURL, phone, email }) => {
   return (
-    <div className="card col col-sm-6 col-md-4 col-lg-3 text-center p-3 ">
+    <div key={id} className="card col-sm-6 col-md-3  text-center p-3 ">
       <h5 className="card-title text-danger">{name}</h5>
       <img
         src={imgURL}
